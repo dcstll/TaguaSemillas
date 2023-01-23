@@ -3,7 +3,7 @@ import { Container } from 'react-bootstrap'
 import Home from './pages/Home/Home'
 import About from './pages/About/About'
 import Catalogue from './pages/Catalogue/Catalogue'
-import Menu from './Components/Menu/menu'
+import Menu from './Components/Menu/Menu'
 import Footer from "./Components/Footer/Footer"
 import './App.css'
 import { ShoppingCartProvider } from './context/ShoppingCartContext'

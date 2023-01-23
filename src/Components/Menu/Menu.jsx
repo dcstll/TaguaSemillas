@@ -10,7 +10,7 @@ function Menu() {
     <Navbar expand="lg">
       <Container>
         <Navbar.Brand>
-          <img src={logo} alt="Logo"/>
+          <img src={logo} alt="Logo" className="w-25"/>
           Tagua y Semillas</Navbar.Brand>
        <Navbar.Toggle aria-controls="basic-navbar-nav">
           <span className="navbar-toggler-icon"></span>
