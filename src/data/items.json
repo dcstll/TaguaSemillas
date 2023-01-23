@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Collar dientes",
+        "price": 30000,
+        "imgUrl": "/img/1.png"
+    },
+    {
+        "id": 2,
+        "name": "Collar flor Pacman",
+        "price": 35000,
+        "imgUrl": "/img/2.png"
+    },
+    {
+        "id": 3,
+        "name": "Collar papa clasica",
+        "price": 25000,
+        "imgUrl": "/img/3.png"
+    },
+    {
+        "id": 4,
+        "name": "Pectoral placas corteza",
+        "price": 35000,
+        "imgUrl": "/img/4.png"
+    },
+    {
+        "id": 5,
+        "name": "Pulsera placa",
+        "price": 15000,
+        "imgUrl": "/img/5.png"
+    },
+    {
+        "id": 6,
+        "name": "Pulsera Dona-Baloncillo",
+        "price": 10000,
+        "imgUrl": "/img/6.png"
+    },
+    {
+        "id": 7,
+        "name": "Pulsera de tagua",
+        "price": 10000,
+        "imgUrl": "/img/7.png"
+    }
+]
